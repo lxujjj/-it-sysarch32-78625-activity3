@@ -28,6 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: #edc5ad;
 }
 
 h1 {
@@ -102,9 +103,10 @@ button:focus-visible {
     text-align: center;
   }
   .card {
-    border: 1px solid #ccc;
+    border: 2px solid #000000;
     border-radius: 8px;
     padding: 20px;
+    background-color: whitesmoke;
     margin: 10px;
     width: 300px; /* Adjust the width as needed */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
